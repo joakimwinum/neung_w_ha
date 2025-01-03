@@ -233,6 +233,7 @@ The images were created using [keyboard-layout-editor](https://www.keyboard-layo
 |   |   |   |   |[ ]|[ ]|   | x |   |   | Down |
 |   |   |   |   |[ ]|[ ]|   |   | x |   | Up |
 |   |   |   |   |[ ]|[ ]|   |   |   | x | Right |
+|   | x | x |   |[ ]|[ ]|   | x | x |   | Layer 2 |
 | x | x | x | x |[ ]|[ ]|   |   |   |   | Tab |
 |   |   |   |   |[ ]|[ ]| x | x | x | x | Enter |
 |   |   |   |   |[x]|[ ]|   |   |   |   | Sticky Shift |
@@ -255,6 +256,7 @@ The images were created using [keyboard-layout-editor](https://www.keyboard-layo
 |   |   |   |   |[ ]|[ ]| x | x |   |   | Forward Delete |
 |   |   |   |   |[ ]|[ ]|   | x | x |   | Escape |
 |   |   |   |   |[ ]|[ ]|   |   | x | x | Caps Lock |
+|   | x | x |   |[ ]|[ ]|   | x | x |   | Layer 2 |
 | x | x | x | x |[ ]|[ ]|   |   |   |   | Tab |
 |   |   |   |   |[ ]|[ ]| x | x | x | x | Enter |
 |   |   |   |   |[x]|[ ]|   |   |   |   | Sticky Shift |
@@ -274,6 +276,7 @@ The images were created using [keyboard-layout-editor](https://www.keyboard-layo
 |   |   |   |   |[ ]|[ ]|   | x |   |   | Media Next |
 |   |   |   |   |[ ]|[ ]|   |   | x |   | Media Previous |
 |   |   |   |   |[ ]|[ ]|   |   |   | x | Media Stop |
+|   | x | x |   |[ ]|[ ]|   | x | x |   | Layer 2 |
 | x | x | x | x |[ ]|[ ]|   |   |   |   | Tab |
 |   |   |   |   |[ ]|[ ]| x | x | x | x | Enter |
 |   |   |   |   |[x]|[ ]|   |   |   |   | Sticky Shift |
@@ -293,6 +296,7 @@ The images were created using [keyboard-layout-editor](https://www.keyboard-layo
 |   |   |   |   |[ ]|[ ]|   | x |   |   | Volume Down |
 |   |   |   |   |[ ]|[ ]|   |   | x |   | Volume Up |
 |   |   |   |   |[ ]|[ ]|   |   |   | x | Mute |
+|   | x | x |   |[ ]|[ ]|   | x | x |   | Layer 2 |
 | x | x | x | x |[ ]|[ ]|   |   |   |   | Tab |
 |   |   |   |   |[ ]|[ ]| x | x | x | x | Enter |
 |   |   |   |   |[x]|[ ]|   |   |   |   | Sticky Shift |
@@ -312,6 +316,7 @@ The images were created using [keyboard-layout-editor](https://www.keyboard-layo
 |   |   |   |   |[ ]|[ ]|   | x |   |   | F2 |
 |   |   |   |   |[ ]|[ ]|   |   | x |   | F3 |
 |   |   |   |   |[ ]|[ ]|   |   |   | x | F4 |
+|   | x | x |   |[ ]|[ ]|   | x | x |   | Layer 2 |
 | x | x | x | x |[ ]|[ ]|   |   |   |   | Tab |
 |   |   |   |   |[ ]|[ ]| x | x | x | x | Enter |
 |   |   |   |   |[x]|[ ]|   |   |   |   | Sticky Shift |
@@ -331,6 +336,7 @@ The images were created using [keyboard-layout-editor](https://www.keyboard-layo
 |   |   |   |   |[ ]|[ ]|   | x |   |   | F6 |
 |   |   |   |   |[ ]|[ ]|   |   | x |   | F7 |
 |   |   |   |   |[ ]|[ ]|   |   |   | x | F8 |
+|   | x | x |   |[ ]|[ ]|   | x | x |   | Layer 2 |
 | x | x | x | x |[ ]|[ ]|   |   |   |   | Tab |
 |   |   |   |   |[ ]|[ ]| x | x | x | x | Enter |
 |   |   |   |   |[x]|[ ]|   |   |   |   | Sticky Shift |
@@ -350,6 +356,7 @@ The images were created using [keyboard-layout-editor](https://www.keyboard-layo
 |   |   |   |   |[ ]|[ ]|   | x |   |   | F10 |
 |   |   |   |   |[ ]|[ ]|   |   | x |   | F11 |
 |   |   |   |   |[ ]|[ ]|   |   |   | x | F12 |
+|   | x | x |   |[ ]|[ ]|   | x | x |   | Layer 2 |
 | x | x | x | x |[ ]|[ ]|   |   |   |   | Tab |
 |   |   |   |   |[ ]|[ ]| x | x | x | x | Enter |
 |   |   |   |   |[x]|[ ]|   |   |   |   | Sticky Shift |
