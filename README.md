@@ -379,7 +379,7 @@ Neung W Ha has been implemented in three setups:
 ![3w6 Neung W Ha](images/3w6_neung_w_ha.png)
 
 - QMK Firmware: [3w6 Neung W Ha](https://github.com/joakimwinum/vial-qmk-3w6-neung-w-ha/tree/vial/keyboards/keebart/3w6_neung_w_ha)
-- Keyboard: [3w6 RGB](https://github.com/weteor/3W6)
+- Keyboard: [3w6 RGB](https://github.com/Keebart/vial-qmk-3w6-rgb/tree/vial/keyboards/keebart/3w6_rgb)
 - Hardware Availability: [Keebart](https://keebart.com/)
 
 ### Piantor
@@ -388,7 +388,7 @@ Neung W Ha has been implemented in three setups:
 
 - QMK Firmware: [Piantor Chord](https://github.com/joakimwinum/qmk_firmware/tree/piantor_chord/keyboards/beekeeb/piantor_chord) [_Note: This firmware has not yet been tested_]
 - Keyboard: [Piantor](https://github.com/beekeeb/piantor)
-- Hardware Availability: [BeeKeeb](https://shop.beekeeb.com)
+- Hardware Availability: [beekeeb](https://shop.beekeeb.com)
 
 ## License
 
